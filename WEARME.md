@@ -17,10 +17,10 @@ Bathrobes are extremely Comfortable
 
 Bathrobes are the single most underestimated piece of clothing on the planet. They are extremely comfortable, low maintenance and very undemanding. In addition they come in also sorts of colors (of course, the github bathrobe *must* be black), they don't need tailoring - they just fit.
 
-Protoype
+Prototype
 --------
 
-To prove the point, a prototype has been developed in hours of intense work. This protoype features ... well it's a bathrobe so you know what the features are :)
+To prove the point, a prototype has been developed in hours of intense work. This prototype features ... well it's a bathrobe so you know what the features are :)
 
 ![Prototype](https://github.com/gorenje/github.bathrobe/raw/master/image.png)
 
